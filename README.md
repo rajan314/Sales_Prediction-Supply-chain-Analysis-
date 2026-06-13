@@ -14,7 +14,7 @@ This project demonstrates how to build a time series forecasting model using LST
 
 ```
 Sales_Prediction-Supply-chain-Analysis/
-└── project43.ipynb     # Main Jupyter/Colab notebook
+└── project43.ipynb     # Colab notebook
 ```
 
 ---
